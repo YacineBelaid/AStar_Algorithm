@@ -1,0 +1,5 @@
+# Nombre d'états générés : 4
+# Nombre d'états visités : 2
+# Durée : 3 ms
+# Coût : 2.0
+W N 

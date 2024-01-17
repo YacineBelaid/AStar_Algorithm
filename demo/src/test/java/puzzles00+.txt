@@ -1,0 +1,20 @@
+# Nombre d'états générés : 2
+# Nombre d'états visités : 1
+# Durée : 3 ms
+# Coût : 1.0
+W 
+# Nombre d'états générés : 9347
+# Nombre d'états visités : 6067
+# Durée : 146 ms
+# Coût : 22.0
+N W W S E E N N W S S W N E E S W W N E N W 
+# Nombre d'états générés : 4
+# Nombre d'états visités : 2
+# Durée : 0 ms
+# Coût : 2.0
+W N 
+# Nombre d'états générés : 181440
+# Nombre d'états visités : 181440
+# Durée : 73015 ms
+# Coût : ∞
+<aucune solution>
